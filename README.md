@@ -4,7 +4,7 @@
 How can posterior samples be used to make inferences in Bayesian statistics?
 
 ### 2. (3 points)
-Assume that you can readily sample from the posterior distribution for a parameter θ, but you interested in making inferences for γ = g(θ). Describe the process by which you can obtain posterior samples from the posterior distribution for γ
+Assume that you can readily sample from the posterior distribution for a parameter theta, but you interested in making inferences for gamma = g(theta). Describe the process by which you can obtain posterior samples from the posterior distribution for gamma.
 
 #### All thoughtful answers for questions 3 - 6 will receive full credit
 
